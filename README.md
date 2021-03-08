@@ -1,4 +1,4 @@
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
 ### Hi there 👋, My name is Rishabh Handay
 I'm a software engineer with growth mindset. I like to learn and expirement a lot. I've great interest in acquiring and improving skills.
 
