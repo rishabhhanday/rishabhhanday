@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif" width="500"/>
 
 ### Hi there 👋, My name is Rishabh Handay
